@@ -1,0 +1,4 @@
+uvicorn==0.30.1
+fastapi==0.111.0
+ujson==5.10.0
+jsondb==0.1.2
